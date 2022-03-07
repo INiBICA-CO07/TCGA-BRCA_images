@@ -1,11 +1,11 @@
 # TCGA-BRCA images
-En este repositorio se encuentran recopialadas las imágenes y las respectivas teselas recopiladas del repositorio de `TCGA` de cáncer de mama (`TCGA-BRCA`).
+En este repositorio se encuentran recopiladas las imágenes y las respectivas teselas en formato `.jpg` recopiladas del repositorio de `TCGA` de cáncer de mama (`TCGA-BRCA`).
 
 ---
-- **images**: Aquí se encuentran recopiladas las imágenes de los pacientes cuyo cáncer se ha diseminado a los ganglios o nódulos linfáticos cercanos.
+- **images**: Aquí se encuentran recopiladas las 1900 imágenes de los pacientes cuyo cáncer se ha diseminado a los ganglios linfáticos cercanos.
 El tamaño de las imágenes es aproximadamente de 1470x630 píxeles.
   
 
-- **tiles**: Aquí se encuentran recopiladas las teselas (imágenes más pequeñas) de las imágenes del apartado anterior.
-El tamaño de las teselas es aproximadamente de 210x210 píxeles, por lo que hay un total de 21 teselas por cada imagen del apartado anterior.
+- **tiles**: Aquí se encuentran recopiladas las 34421 teselas (imágenes más pequeñas) con cáncer de las imágenes del apartado anterior.
+El tamaño de las teselas es de 210x210 píxeles.
   
